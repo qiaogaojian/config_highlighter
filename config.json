@@ -1,0 +1,8 @@
+{
+  "log": {
+    "file": "D:/Tools/Chrome/pouchdb-server/pouchdb.log"
+  },
+  "couchdb": {
+    "uuid": "fb21e3c8-f099-4062-9427-e84adc6675e4"
+  }
+}
