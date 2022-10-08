@@ -1,0 +1,4 @@
+[Sat, 08 Oct 2022 13:10:12 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:3996/
+[Sat, 08 Oct 2022 13:10:12 GMT] [info] [<0.000.0>] database will use sqlite3.
+[Sat, 08 Oct 2022 13:10:12 GMT] [info] [<0.000.0>] database files will be saved to D:\Git\Config\config_highlighter\db
+[Sat, 08 Oct 2022 13:10:12 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:3996/_utils for the Fauxton UI.
