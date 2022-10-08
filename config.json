@@ -1,6 +1,6 @@
 {
   "log": {
-    "file": "D:/Tools/Chrome/pouchdb-server/pouchdb.log"
+    "file": "D:/Git/Config/config_highlighter/pouchdb.log"
   },
   "couchdb": {
     "uuid": "fb21e3c8-f099-4062-9427-e84adc6675e4"
